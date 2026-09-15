@@ -1,8 +1,8 @@
-Name = input("Enter your name: ")
-Age = int(input("Enter your age: "))
-Course = input("Enter your course: ")
-Section = input("Enter your section: ”)
-Favorite_language = input("Enter your favorite programming language: ")      
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+course = input("Enter your course: ")
+section = input("Enter your section: ")
+favorite_language = input("Enter your favorite programming language: ")      
 
 print("Name", name)
 print("Age", age)
